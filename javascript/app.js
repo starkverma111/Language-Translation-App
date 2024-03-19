@@ -1,6 +1,6 @@
        async function translateWord() {
             const url = 'https://google-translation-unlimited.p.rapidapi.com/translate';
-            const apiKey = '40656a2f4emsh669b52784773f49p1c55a4jsn2cca8bbf7a8d';
+            const apiKey = 'your api key here';
             const wordInput = document.getElementById('wordInput').value;
             const targetLanguage = document.getElementById('targetLanguage').value;
             const options = {
